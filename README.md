@@ -30,7 +30,9 @@ Github automatically sorts files in a gist according to :
 5. `_` (underscore)
 6. Letters (case insensitive)
 
+So i used only dot numbers underscore and şetters for file naming.
 
+Example:
 
 More info at :
 
