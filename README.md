@@ -8,7 +8,7 @@ These are my study files.
 
 ## Context
 
-1. [A Tutorial Introduction](#Chapter-1 -A-Tutorial-Introduction)
+1. [A Tutorial Introduction](#Chapter-1-A-Tutorial-Introduction)
 2. [Types, Operators and Expressions](#Chapter-2-Types,-Operators-and-Expressions)
 3. [Control Flow](#Chapter-3-Control-Flow)
 4. [Functions and Program Structure](#Chapter-4-Functions-and-Program-Structure)
