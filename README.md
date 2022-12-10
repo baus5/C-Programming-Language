@@ -42,7 +42,7 @@ More info at :
 
 # Chapter 1 A Tutorial Introduction
 
-*[ToC](##Table-of-Contents)*-*[Code](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)*
+*[ToC](#Table-of-Contents)*-*[Code](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)*
 
 Quick introduction in C. Some essential elements of the language.
 
