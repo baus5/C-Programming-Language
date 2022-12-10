@@ -8,14 +8,14 @@ These are my study files.
 
 ## Context
 
-1. [A Tutorial Introduction](#Chapter-1-A-Tutorial-Introduction)
-2. [Types, Operators and Expressions](#Chapter 2 - Types, Operators and Expressions)
-3. [Control Flow](#Chapter 3 - Control Flow)
-4. [Functions and Program Structure](#Chapter 4 - Functions and Program Structure)
-4. [Pointers and Arrays](#Chapter 5 - Pointers and Arrays)
-4. [Structures](#Chapter 6 - Structures)
-4. [Input and Output](#Chapter 7 - Input and Output)
-4. [The UNIX System Interface](#Chapter 8 - The UNIX System Interface)
+1. [A Tutorial Introduction](#Chapter-1 -A-Tutorial-Introduction)
+2. [Types, Operators and Expressions](#Chapter-2-Types,-Operators-and-Expressions)
+3. [Control Flow](#Chapter-3-Control-Flow)
+4. [Functions and Program Structure](#Chapter-4-Functions-and-Program-Structure)
+4. [Pointers and Arrays](#Chapter-5-Pointers-and-Arrays)
+4. [Structures](#Chapter-6-Structures)
+4. [Input and Output](#Chapter-7-Input-and-Output)
+4. [The UNIX System Interface](#Chapter-8-The-UNIX-System-Interface)
 
 
 
@@ -40,7 +40,7 @@ More info at :
 
 
 
-# Chapter 1 - A Tutorial Introduction
+# Chapter 1 A Tutorial Introduction
 
 Quick introduction in C. Some essential elements of the language.
 
@@ -103,48 +103,46 @@ Quick introduction in C. Some essential elements of the language.
 
 
 
-# Chapter 2 - Types, Operators and Expressions
+# Chapter 2 Types, Operators and Expressions
 
 *info*
 
 
 
-# Chapter 3 - Control Flow
+# Chapter 3 Control Flow
 
 *info*
 
 
 
-# Chapter 4 - Functions and Program Structure
+# Chapter 4 Functions and Program Structure
 
 *info*
 
 
 
-# Chapter 5 - Pointers and Arrays
+# Chapter 5 Pointers and Arrays
 
 *info*
 
 
 
-# Chapter 6 - Structures
+# Chapter 6 Structures
 
 *info*
 
 
 
-# Chapter 7 - Input and Output
+# Chapter 7 Input and Output
 
 *info*
 
 
 
-# Chapter 8 - The UNIX System Interface
+# Chapter 8 The UNIX System Interface
 
 *info*
 
 
-
-# End
 
 EOF
