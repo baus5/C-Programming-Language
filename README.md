@@ -9,7 +9,7 @@ These are my study files.
 ## Table of Contents
 
 1. [A Tutorial Introduction](#Chapter-1-A-Tutorial-Introduction)
-2. [Types, Operators and Expressions](#Chapter-2-Types,-Operators-and-Expressions)
+2. [Types, Operators and Expressions](#Chapter-2-Types-Operators-and-Expressions)
 3. [Control Flow](#Chapter-3-Control-Flow)
 4. [Functions and Program Structure](#Chapter-4-Functions-and-Program-Structure)
 4. [Pointers and Arrays](#Chapter-5-Pointers-and-Arrays)
@@ -44,7 +44,7 @@ More info at :
 
 # Chapter 1 A Tutorial Introduction
 
-[Prev](#Table-of-Contents) | [ToC](#Table-of-Contents) | [Next](#Chapter-2-Types,-Operators-and-Expressions) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
+[Prev](#Table-of-Contents) | [ToC](#Table-of-Contents) | [Next](#Chapter-2-Types-Operators-and-Expressions) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
 
 Quick introduction in C. Some essential elements of the language.
 
@@ -107,7 +107,7 @@ Quick introduction in C. Some essential elements of the language.
 
 
 
-# Chapter 2 Types, Operators and Expressions
+# Chapter 2 Types Operators and Expressions
 
 *info*
 
