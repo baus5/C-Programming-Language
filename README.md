@@ -109,11 +109,15 @@ Quick introduction in C. Some essential elements of the language.
 
 # Chapter 2 Types Operators and Expressions
 
+[Prev](#Chapter-1) | [ToC](#Table-of-Contents) | [Next](#Chapter-3) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
+
 *info*
 
 
 
 # Chapter 3 Control Flow
+
+[Prev](#Chapter-2) | [ToC](#Table-of-Contents) | [Next](#Chapter-4) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
 
 *info*
 
@@ -121,11 +125,15 @@ Quick introduction in C. Some essential elements of the language.
 
 # Chapter 4 Functions and Program Structure
 
+[Prev](#Chapter-3) | [ToC](#Table-of-Contents) | [Next](#Chapter-5) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
+
 *info*
 
 
 
 # Chapter 5 Pointers and Arrays
+
+[Prev](#Chapter-4) | [ToC](#Table-of-Contents) | [Next](#Chapter-6) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
 
 *info*
 
@@ -133,17 +141,23 @@ Quick introduction in C. Some essential elements of the language.
 
 # Chapter 6 Structures
 
+[Prev](#Chapter-5) | [ToC](#Table-of-Contents) | [Next](#Chapter-7) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
+
 *info*
 
 
 
 # Chapter 7 Input and Output
 
+[Prev](#Chapter-6) | [ToC](#Table-of-Contents) | [Next](#Chapter-8) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
+
 *info*
 
 
 
 # Chapter 8 The UNIX System Interface
+
+[Prev](#Chapter-7) | [ToC](#Table-of-Contents) | [Next]() | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
 
 *info*
 
