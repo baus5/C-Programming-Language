@@ -44,7 +44,7 @@ More info at :
 
 # Chapter 1 A Tutorial Introduction
 
-[Prev]() | [ToC](#Table-of-Contents) | [Next]() | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
+[Prev](#Table-of-Contents) | [ToC](#Table-of-Contents) | [Next](#Chapter-2-Types,-Operators-and-Expressions) | [`Code`](https://github.com/baus5/C-Programming-Language/tree/main/Ch01_Getting_Started)
 
 Quick introduction in C. Some essential elements of the language.
 
